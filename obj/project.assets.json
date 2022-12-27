@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo User\\OneDrive\\Υπολογιστής\\C# Players guide\\Challenges\\ConsoleApp3\\TheFinalBattle.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo User\\OneDrive\\Υπολογιστής\\C# Players guide\\Challenges\\TheFinalBattle\\TheFinalBattle.csproj",
       "projectName": "TheFinalBattle",
-      "projectPath": "C:\\Users\\Lenovo User\\OneDrive\\Υπολογιστής\\C# Players guide\\Challenges\\ConsoleApp3\\TheFinalBattle.csproj",
+      "projectPath": "C:\\Users\\Lenovo User\\OneDrive\\Υπολογιστής\\C# Players guide\\Challenges\\TheFinalBattle\\TheFinalBattle.csproj",
       "packagesPath": "C:\\Users\\Lenovo User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo User\\OneDrive\\Υπολογιστής\\C# Players guide\\Challenges\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo User\\OneDrive\\Υπολογιστής\\C# Players guide\\Challenges\\TheFinalBattle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo User\\AppData\\Roaming\\NuGet\\NuGet.Config",

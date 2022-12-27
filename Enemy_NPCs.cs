@@ -8,7 +8,7 @@ namespace TheFinalBattle
 {
     internal class Enemy_NPCs
     {
-        private static int _Enemy_NPC_Hp = 10;
+
 
         public Enemy_NPCs(Npc_type npc_type)
         {
@@ -20,6 +20,16 @@ namespace TheFinalBattle
             }
 
             
+            
+        }
+
+        
+
+        public int DoDamageWithBoneCrunchAttack()
+        {
+            Random random = new Random();
+            int damage = random.Next(2);
+            return damage;
             
         }
 
